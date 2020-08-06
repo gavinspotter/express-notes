@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gavinspotter/express-notes/issues"
   },
-  "homepage": "https://github.com/gavinspotter/express-notes#readme"
+  "homepage": "https://github.com/gavinspotter/express-notes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
